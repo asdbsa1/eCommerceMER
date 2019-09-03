@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\DiaD\bin\Debug\netcoreapp2.2\diaD.deps.json
+C:\Users\Administrator\Desktop\DiaD\bin\Debug\netcoreapp2.2\diaD.runtimeconfig.json
+C:\Users\Administrator\Desktop\DiaD\bin\Debug\netcoreapp2.2\diaD.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\DiaD\bin\Debug\netcoreapp2.2\diaD.dll
+C:\Users\Administrator\Desktop\DiaD\bin\Debug\netcoreapp2.2\diaD.pdb
+C:\Users\Administrator\Desktop\DiaD\obj\Debug\netcoreapp2.2\diaD.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\DiaD\obj\Debug\netcoreapp2.2\diaD.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DiaD\obj\Debug\netcoreapp2.2\diaD.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\DiaD\obj\Debug\netcoreapp2.2\diaD.RazorAssemblyInfo.cs
+C:\Users\Administrator\Desktop\DiaD\obj\Debug\netcoreapp2.2\diaD.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\DiaD\obj\Debug\netcoreapp2.2\diaD.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\DiaD\obj\Debug\netcoreapp2.2\diaD.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\Desktop\DiaD\obj\Debug\netcoreapp2.2\diaD.dll
+C:\Users\Administrator\Desktop\DiaD\obj\Debug\netcoreapp2.2\diaD.pdb
